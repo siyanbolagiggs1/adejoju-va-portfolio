@@ -370,6 +370,9 @@ h2.center{text-align:center;max-width:640px;margin:0 auto .5em}
 .contact h2{color:#fff;font-size:clamp(26px,4vw,38px)}
 .contact p{color:rgba(255,255,255,.85)}
 .contact .btn-primary{margin-top:8px}
+.contact-phone{margin-top:14px}
+.contact-phone a{color:#fff;font-weight:700;text-decoration:none;border-bottom:1.5px solid rgba(255,255,255,.4);padding-bottom:2px;transition:border-color .2s ease}
+.contact-phone a:hover{border-color:#fff}
 .contact .editable-note{margin-top:24px;background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.3);color:#FFE9A8}
 
 /* -------- footer -------- */

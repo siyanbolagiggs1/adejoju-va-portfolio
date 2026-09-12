@@ -24,8 +24,8 @@ in `index.html`), and fill in:
       `index.html` (`.brand-placeholder`) with an `<img>` of your brand kit
 - [ ] Skills Self-Assessment: your real strengths, skill gaps, and improvement
       plan from the completed assessment
-- [ ] Contact section: phone / LinkedIn / WhatsApp if you want them listed
-      (email is pre-filled with siyanbolagiggs@gmail.com)
+- [ ] Contact section: real LinkedIn and Instagram links (email, phone, and
+      WhatsApp are already filled in)
 
 ## Run it locally
 
